@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Tareas y Tiempos",
+  "description": "Un gestor de tareas orientado al seguimiento del tiempo, con temporizadores interactivos y estadísticas visuales de productividad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
